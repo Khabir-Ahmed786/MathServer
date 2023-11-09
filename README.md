@@ -161,9 +161,10 @@ urlpatterns = [
 
 ```
 
-## HOMEPAGE:
-![Alt text](image.png)
+## OUTPUT:
+![image](https://github.com/Anbuselvan04/MathServer/assets/119410896/c5aa6a53-1970-4a25-84a2-41a8a7d87dcf)
 
-![Alt text](image-1.png)
+![image](https://github.com/Anbuselvan04/MathServer/assets/119410896/4c3a9006-1f01-4323-a7ad-e225a61925c1)
+
 ## RESULT:
 The program for performing server side processing is completed successfully.
